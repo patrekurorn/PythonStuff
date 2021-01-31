@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ed423e-f3ca-41e4-86f7-6f5bf463d89b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YCscQx7gmsUFCyX8V7smeDA12k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="suduko" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Suduko" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Suduko/suduko.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.suduko" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ed423e-f3ca-41e4-86f7-6f5bf463d89b" name="Default Changelist" comment="" />
+      <created>1582457990385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582457990385</updated>
+      <workItem from="1582457994129" duration="1183000" />
+      <workItem from="1582459460469" duration="1181000" />
+      <workItem from="1584394616327" duration="52000" />
+      <workItem from="1588687892389" duration="22000" />
+      <workItem from="1598034428535" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1114" height="178" key="GridCell.Tab.0.bottom" timestamp="1588687914043">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1114" height="178" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1584394668523" />
+    <state width="1114" height="178" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1588687914043" />
+    <state width="1114" height="178" key="GridCell.Tab.0.center" timestamp="1588687914037">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1114" height="178" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1584394668522" />
+    <state width="1114" height="178" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1588687914037" />
+    <state width="1114" height="178" key="GridCell.Tab.0.left" timestamp="1588687914037">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1114" height="178" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1584394668521" />
+    <state width="1114" height="178" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1588687914037" />
+    <state width="1114" height="178" key="GridCell.Tab.0.right" timestamp="1588687914041">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1114" height="178" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1584394668522" />
+    <state width="1114" height="178" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1588687914041" />
+    <state x="298" y="31" key="SettingsEditor" timestamp="1582459680043">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="298" y="31" key="SettingsEditor/0.23.1280.730@0.23.1280.730" timestamp="1582459680043" />
+    <state x="605" y="77" key="search.everywhere.popup" timestamp="1582459887201">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="605" y="77" key="search.everywhere.popup/0.23.1280.730@0.23.1280.730" timestamp="1582459887201" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$suduko.coverage" NAME="suduko Coverage Results" MODIFIED="1588687901130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Suduko" />
+  </component>
+</project>
