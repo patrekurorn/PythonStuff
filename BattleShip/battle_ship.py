@@ -122,7 +122,7 @@ def convert_guess():
 
 
 def play_game():
-    print("Welcome to Battle Ship.\n"
+    print("\nWelcome to Battle Ship.\n"
           "The rules are:\n"
           "There are 5 ships:\n"
           "\t 1x small ship (2 hits)\n"
